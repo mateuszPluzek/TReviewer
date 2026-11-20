@@ -7,7 +7,7 @@
 
 ## Short Description of the App
 
-TReviewer is a web application that allows users to share opinions about railway stations and train connections offered by railway operators.
+TReviewer is a web application that allows users to share opinions about railway stations and train connections offered by railway operators as well as airlines. This is a basic app that doesn't implement many quality of life features that are usually added to modern apps. Front End was made with mobile users in mind.
 
 ## Installation Guide
 
@@ -64,19 +64,25 @@ Open `http://localhost:3000` in your browser.
 ## Features
 
 ### User Registration
-![Screenshot placeholder — user registration](./screenshots/user-registration.png)
+
+<img width="802" height="512" alt="obraz" src="https://github.com/user-attachments/assets/3ea1e100-7896-484a-b835-d8868a52ab06" />
 
 ### User Login
-![Screenshot placeholder — user login](./screenshots/user-login.png)
+
+<img width="775" height="478" alt="obraz" src="https://github.com/user-attachments/assets/d09650fa-77be-4701-847b-c0e17319b967" />
 
 ### Railway Station Reviews
-![Screenshot placeholder — railway station reviews](./screenshots/station-reviews.png)
+
+<img width="1880" height="536" alt="obraz" src="https://github.com/user-attachments/assets/dff87e52-c06c-49ef-bc9a-7d7cc649393a" />
 
 ### Train Connection Reviews
-![Screenshot placeholder — train connection reviews](./screenshots/route-reviews.png)
+
+<img width="1867" height="314" alt="obraz" src="https://github.com/user-attachments/assets/8f6fc3a4-58d3-4680-b5b5-26c784c7d17e" />
 
 ### Search
-![Screenshot placeholder — search](./screenshots/search.png)
 
-### Favorite Stations
-![Screenshot placeholder — favorite stations](./screenshots/favorite-stations.png)
+<img width="784" height="555" alt="obraz" src="https://github.com/user-attachments/assets/5f8a81aa-dfb5-4de0-8e40-fe82c7b243a8" />
+
+### Adding a review
+
+<img width="1296" height="491" alt="obraz" src="https://github.com/user-attachments/assets/aee58f91-3f73-43f4-a8ec-6dc1029d3bb1" />
